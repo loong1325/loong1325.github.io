@@ -5,7 +5,7 @@ collection: conference papers
 #permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about nothing. Everything important is left for future work.'
 date: 2024-9-21
-venue: 'Annals of Geology'
+venue: 'Internotional Geological Congress'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
