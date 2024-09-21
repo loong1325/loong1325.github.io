@@ -1,7 +1,7 @@
 ---
 title: "Introduction to the Study of Love"
 collection: lecture notes
-#category: manuscripts
+category: manuscripts
 #permalink: none
 excerpt: 'This paper is about the the techniques and philosophy of romantic relationships.'
 date: 2023-10-30
