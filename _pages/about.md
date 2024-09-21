@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "我是谁？"
+title: "我是谁"
 author_profile: true
 redirect_from: 
   - /about/
