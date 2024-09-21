@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "中国南京"
-#title                    : "Your Name / Site Title"
+title                    : #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "龙沐阳"
+name                     : &name "name"
 description              : &description "personal description"
 url                      : https://loong1325.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "中国南京"
-  employer         : #"Red Brick University"
+  employer         : "南京大学"
   uri              : # URL
   email            : "231830006@nju.edu.cn" 
 
