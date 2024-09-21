@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "acad-loong1325"
+title: "关于我/About me"
 author_profile: true
 redirect_from: 
   - /about/
