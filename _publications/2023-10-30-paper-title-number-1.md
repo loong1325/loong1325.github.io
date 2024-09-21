@@ -1,6 +1,6 @@
 ---
 title: "Introduction to the Study of Love"
-collection: publiction
+collection: publication
 category: manuscripts
 #permalink: none
 excerpt: 'This paper is about the the techniques and philosophy of romantic relationships.'
