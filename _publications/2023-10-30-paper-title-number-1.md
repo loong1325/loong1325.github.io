@@ -11,4 +11,5 @@ venue: 'Jumping University Press'
 #citation: 'MY, Loong. (2024). &quot;Introduction to the Study of Love.&quot; <i>Inventiones of Love</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Whenever I think of you, a smile spreads across this ugly face of mine.
+--Wang, Xiaobo.
