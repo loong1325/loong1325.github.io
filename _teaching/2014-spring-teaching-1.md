@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "Notional University of Singapore"
-date: 2023-07-24
+#date: 2023-07-24
 #location: "City, Country"
 ---
 
