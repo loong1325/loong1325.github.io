@@ -12,4 +12,5 @@ venue: 'Jumping University Press'
 ---
 
 Whenever I think of you, a smile spreads across this ugly face of mine.
+
 --Wang, Xiaobo.
