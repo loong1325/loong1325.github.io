@@ -5,7 +5,7 @@ category: books
 #permalink: none
 excerpt: 'This paper is about the the techniques and philosophy of romantic relationships.'
 date: 2023-10-30
-venue: 'None'
+venue: 'Jumping University Press'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #citation: 'MY, Loong. (2024). &quot;Introduction to the Study of Love.&quot; <i>Inventiones of Love</i>. 1(1).'
