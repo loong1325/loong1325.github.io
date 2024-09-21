@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "？"
-title                    : #"Your Name / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "name"
 description              : &description "personal description"
