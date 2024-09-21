@@ -1,7 +1,7 @@
 ---
 title: "Geological Understanding Report of Jiangsu-Yunnan Basic Geology"
 collection: conference papers
-#category: manuscripts
+category: data paper
 #permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about nothing. Everything important is left for future work.'
 date: 2024-9-21
