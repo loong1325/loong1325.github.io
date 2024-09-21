@@ -1,6 +1,6 @@
 ---
 title: "Stress Analysis of The Condensation and Contraction Process of Magma in a Two-dimensional Plane"
-collection: journal articles
+collection: publications
 #category: manuscripts
 #permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper primarily investigates the crack formation patterns during the uniform cooling and contraction of magma in a two-dimensional closed system.'
