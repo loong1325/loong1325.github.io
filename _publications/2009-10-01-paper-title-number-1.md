@@ -1,8 +1,8 @@
 ---
 title: "Introduction to the Study of Love"
 collection: publications
-category: manuscripts
-permalink: none
+#category: manuscripts
+#permalink: none
 excerpt: 'This paper is about the the techniques and philosophy of romantic relationships.'
 date: 2024-07-30
 venue: 'Inventiones of Love'
