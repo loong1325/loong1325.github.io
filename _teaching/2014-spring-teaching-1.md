@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to the Study of Love"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+#permalink: /teaching/2014-spring-teaching-1
+venue: "Notional University of Singapore"
+date: 2023
+#location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+The Essence of Love
 ======
 
-Heading 2
+The Phylosophy of Love in Action
 ======
 
-Heading 3
+What to Do After Failue
 ======
