@@ -12,4 +12,4 @@ redirect_from:
 
 Merit Cat, Distinguished Associate Cat of Dr. George Edgar Zomboss
 =====
-A cat from the night. An alive student who doesn't like doing homework. My cat life is a success story, with cat food, social life, happiness, good grades, and everything else. Without a girlfriend.
+A cat from the night. An alive student who doesn't like doing homework. My cat life is a success story, with cat food, social life, happiness, good grades, and everything else. Without a girlfriend currently.
