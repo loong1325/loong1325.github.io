@@ -4,7 +4,7 @@ collection: publications
 #category: manuscripts
 #permalink: none
 excerpt: 'This paper is about the the techniques and philosophy of romantic relationships.'
-date: 2024-07-30
+date: 2023-10-30
 venue: 'Inventiones of Love'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
