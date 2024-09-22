@@ -1,6 +1,6 @@
 ---
 title: "Merit Cat/三好猫猫"
-excerpt: "Mission: Impossible 2 <br/><img src='/images/result.jpeg'>"
+excerpt: "Mission: Impossible <br/><img src='/images/result.jpeg'>"
 collection: portfolio
 ---
 
