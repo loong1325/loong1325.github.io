@@ -5,10 +5,10 @@ type: "Undergraduate course"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "Australian Notional University"
 date: 2023-07-25
-#location: "City, Country"
+location: "Canberra, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I give you my entire soul, along with its quirks, tantrums, its ups and downs, and its eighteen hundred flaws. It's truly annoying, with only one redeeming quality: it loves you.
 
 The Essence of Love
 ======
