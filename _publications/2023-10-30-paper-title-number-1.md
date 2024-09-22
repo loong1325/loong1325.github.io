@@ -3,7 +3,7 @@ title: "Introduction to the Study of Love"
 collection: publication
 category: books
 #permalink: none
-excerpt: 'This paper is about the the techniques and philosophy of romantic relationships.'
+excerpt: 'This book is about the the techniques and philosophy of romantic relationships.'
 date: 2023-10-30
 venue: 'Jumping University Press'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
