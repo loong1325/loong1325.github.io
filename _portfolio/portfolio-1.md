@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Merit Cat/三好猫猫"
+excerpt: "an international award established to recognize cats who demonstrate excellence in daily life, academics, and sleeping<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
