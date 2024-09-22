@@ -8,7 +8,7 @@ date: 2024-03-07
 #location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Everyone's brain has two parts: left and right. The left part has nothing right, and the right part has nothing left.
 
 Abstract Art
 ======
