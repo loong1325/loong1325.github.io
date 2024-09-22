@@ -3,7 +3,7 @@ title: "Stress Analysis of The Condensation and Contraction Process of Magma in 
 collection: publication
 category: manuscripts
 #permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper primarily investigates the crack formation patterns during the uniform cooling and contraction of magma in a two-dimensional closed system.'
+excerpt: 'This article primarily investigates the crack formation patterns during the uniform cooling and contraction of magma in a two-dimensional closed system.'
 date: 2024-06-14
 venue: 'Journal of the Mauritius Physical Society'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
