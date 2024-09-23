@@ -1,11 +1,11 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Zombies on Your Lawn"
 collection: talks
-type: "Talk"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+type: "Session Chair"
+#permalink: /talks/2014-02-01-talk-2
+venue: "Electonic Arts, PopCap Games"
+date: 2009-05-05
+location: "Crazy Dave's Lawn"
 ---
 
 [More information here](http://example2.com)
