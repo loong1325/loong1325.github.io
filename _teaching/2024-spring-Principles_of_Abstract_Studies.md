@@ -2,7 +2,7 @@
 title: "Principles of Abstract Studies"
 collection: teaching
 type: "Master degree program"
-#permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2024-spring-Principles_of_Abstract_Studies
 venue: "Notional University of Singapore"
 date: 2024-03-07
 location: "Singapore, Singapore"
