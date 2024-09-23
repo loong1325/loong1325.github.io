@@ -2,7 +2,7 @@
 title: "Zombies on Your Lawn"
 collection: talks
 type: "Session Chair"
-permalink: /talks/2009-05-05-audience
+permalink: /talks/2009-05-05-session_chair
 venue: "Electonic Arts, PopCap Games"
 date: 2009-05-05
 location: "Crazy Dave's Lawn"
