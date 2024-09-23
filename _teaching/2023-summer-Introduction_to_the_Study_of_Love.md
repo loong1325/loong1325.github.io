@@ -8,7 +8,11 @@ date: 2023-07-25
 location: "Canberra, Australia"
 ---
 
-I give you my entire soul, along with its quirks, tantrums, its ups and downs, and its eighteen hundred flaws. It's truly annoying, with only one redeeming quality: it loves you.
+I give you my entire soul, 
+
+along with its quirks, tantrums, its ups and downs, and its eighteen hundred flaws.
+
+It's truly annoying, with only one redeeming quality: it loves you.
 
 --Wang, Xiaobo.
 
