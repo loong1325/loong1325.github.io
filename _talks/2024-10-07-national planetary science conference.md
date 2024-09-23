@@ -4,7 +4,7 @@ collection: talks
 type: "Invited Dinner"
 #permalink: /talks/2012-03-01-talk-1
 venue: "Chinese Geophysical Society, Planetary Physics Professional Committee"
-date: 2024-10-7
+date: 2024-10-07
 location: "Nanjing, China"
 ---
 
