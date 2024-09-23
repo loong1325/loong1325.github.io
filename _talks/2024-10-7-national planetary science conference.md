@@ -1,7 +1,7 @@
 ---
 title: "2024 National Planetary Science Conference"
 collection: talks
-type: "Invited Eating"
+type: "Invited Dinner"
 #permalink: /talks/2012-03-01-talk-1
 venue: "Chinese Geophysical Society, Planetary Physics Professional Committee"
 date: 2024-10-7
